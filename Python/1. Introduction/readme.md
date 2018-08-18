@@ -183,7 +183,7 @@ def ask_ok(prompt, retries=4, reminder='Please try again!'):
 或者提供所有参数: ask_ok('OK to overwrite the file?', 2, 'Come on, only yes or no!')
 
 重要的警告︰默认值只初始化一次。当默认值是一个可变对象（如列表，字典或大多数类的实例）时，默认值会不同。
-```python
+``` python
 i = 5
 def f(arg=i):
     print(arg)
@@ -206,7 +206,7 @@ print(f(3))
 ### 2. 关键字参数
 函数还可以用kwarg=value形式的关键字参数调用。
 *name形式， 这种形式接收一个元组；**name形式，它将接收一个字典。
-
+``` python
 def cheeseshop(kind, *arguments, **keywords):
     print("-- Do you have any", kind, "?")
     print("-- I'm sorry, we're all out of", kind)
@@ -216,23 +216,26 @@ def cheeseshop(kind, *arguments, **keywords):
     keys = sorted(keywords.keys())
     for kw in keys:
         print(kw, ":", keywords[kw])
+```
 它可以这样被调用：
-
+``` python
 cheeseshop("Limburger", "It's very runny, sir.",
            "It's really very, VERY runny, sir.",
            shopkeeper="Michael Palin",
            client="John Cleese",
            sketch="Cheese Shop Sketch")
+```
 并且当然它会打印：
-
- -- Do you have any Limburger ?
- -- I'm sorry, we're all out of Limburger
+``` python
+-- Do you have any Limburger ?
+-- I'm sorry, we're all out of Limburger
 It's very runny, sir.
 It's really very, VERY runny, sir.
- ----------------------------------------
+----------------------------------------
 client : John Cleese
 shopkeeper : Michael Palin
 sketch : Cheese Shop Sketch
+```
 
 ### 3. 任意参数的列表
 最后，最不常用的场景是指明某个函数可以被可变个数的参数调用。这些参数将被封装在一个元组中。
