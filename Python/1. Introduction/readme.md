@@ -225,11 +225,11 @@ cheeseshop("Limburger", "It's very runny, sir.",
            sketch="Cheese Shop Sketch")
 并且当然它会打印：
 
--- Do you have any Limburger ?
--- I'm sorry, we're all out of Limburger
+ -- Do you have any Limburger ?
+ -- I'm sorry, we're all out of Limburger
 It's very runny, sir.
 It's really very, VERY runny, sir.
-----------------------------------------
+ ----------------------------------------
 client : John Cleese
 shopkeeper : Michael Palin
 sketch : Cheese Shop Sketch
