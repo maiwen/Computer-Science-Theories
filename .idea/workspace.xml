@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e185569-1b77-401f-8f58-9ecf845b7b1d" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/Python/Python 解释器/README.md" afterPath="$PROJECT_DIR$/Python/Python 解释器/README.md" />
+      <change beforePath="$PROJECT_DIR$/Python/1. Introduction/readme.md" afterPath="$PROJECT_DIR$/Python/1. Introduction/readme.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,11 +13,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Python/Python 解释器/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="45" column="24" lean-forward="true" selection-start-line="45" selection-start-column="24" selection-end-line="45" selection-end-column="24" />
+            <state relative-caret-position="105">
+              <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="34" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="readme.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Python/1. Introduction/readme.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="794">
+              <caret line="299" column="22" lean-forward="false" selection-start-line="299" selection-start-column="22" selection-end-line="299" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -42,12 +52,13 @@
         <option value="$PROJECT_DIR$/Python/Python 解释器/test_interpreter.py" />
         <option value="$PROJECT_DIR$/Python/Python 解释器/interpreter_test.py" />
         <option value="$PROJECT_DIR$/Python/Python 解释器/README.md" />
+        <option value="$PROJECT_DIR$/Python/1. Introduction/readme.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1901" />
-    <option name="y" value="218" />
+    <option name="x" value="1902" />
+    <option name="y" value="194" />
     <option name="width" value="1936" />
     <option name="height" value="1096" />
   </component>
@@ -81,6 +92,12 @@
               <item name="Computer-Science-Theories" type="b2602c69:ProjectViewProjectNode" />
               <item name="Computer-Science-Theories" type="462c0819:PsiDirectoryNode" />
               <item name="Python" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Computer-Science-Theories" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Computer-Science-Theories" type="462c0819:PsiDirectoryNode" />
+              <item name="Python" type="462c0819:PsiDirectoryNode" />
+              <item name="1. Introduction" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -194,14 +211,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python/1. Introduction/readme.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="4" lean-forward="true" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Python/Python 解释器/interpreter_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
@@ -212,8 +221,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Python/Python 解释器/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="45" column="24" lean-forward="true" selection-start-line="45" selection-start-column="24" selection-end-line="45" selection-end-column="24" />
+        <state relative-caret-position="105">
+          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="34" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/1. Introduction/readme.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="794">
+          <caret line="299" column="22" lean-forward="false" selection-start-line="299" selection-start-column="22" selection-end-line="299" selection-end-column="22" />
           <folding />
         </state>
       </provider>
