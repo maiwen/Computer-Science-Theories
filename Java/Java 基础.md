@@ -37,6 +37,7 @@
 * [参考资料](#参考资料)
 <!-- GFM-TOC -->
 
+[基础教程](http://www.runoob.com/java/java-basic-syntax.html)
 
 # 一、数据类型
 
