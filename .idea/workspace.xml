@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8e185569-1b77-401f-8f58-9ecf845b7b1d" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Python/8. 面试/README.md" afterPath="$PROJECT_DIR$/Python/8. 面试/README.md" />
+      <change beforePath="$PROJECT_DIR$/Python/7. 浮点运算︰ 问题和限制/README.md" afterPath="$PROJECT_DIR$/Python/7. 浮点运算︰ 问题和限制/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,20 +15,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Python/8. 面试/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="727">
-              <caret line="517" column="12" lean-forward="true" selection-start-line="517" selection-start-column="12" selection-end-line="517" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Readme.md" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Desktop/Readme.md">
+        <entry file="file://$PROJECT_DIR$/Python/7. 浮点运算︰ 问题和限制/README.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="216">
-              <caret line="647" column="0" lean-forward="true" selection-start-line="647" selection-start-column="0" selection-end-line="670" selection-end-column="3" />
+              <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -60,6 +50,7 @@
         <option value="$PROJECT_DIR$/Python/6. 标准库概览/README.md" />
         <option value="$PROJECT_DIR$/Python/浮点运算︰ 问题和限制/README.md" />
         <option value="$PROJECT_DIR$/Python/8. 面试/README.md" />
+        <option value="$PROJECT_DIR$/Python/7. 浮点运算︰ 问题和限制/README.md" />
       </list>
     </option>
   </component>
@@ -87,7 +78,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -117,12 +107,19 @@
               <item name="Computer-Science-Theories" type="b2602c69:ProjectViewProjectNode" />
               <item name="Computer-Science-Theories" type="462c0819:PsiDirectoryNode" />
               <item name="Python" type="462c0819:PsiDirectoryNode" />
+              <item name="7. 浮点运算︰ 问题和限制" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Computer-Science-Theories" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Computer-Science-Theories" type="462c0819:PsiDirectoryNode" />
+              <item name="Python" type="462c0819:PsiDirectoryNode" />
               <item name="8. 面试" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -226,11 +223,26 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Python/3. 数据结构/README.md">
+    <entry file="file://$PROJECT_DIR$/Python/8. 面试/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Readme.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17469">
+          <caret line="647" column="0" lean-forward="true" selection-start-line="647" selection-start-column="0" selection-end-line="670" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/3. 数据结构/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -266,7 +278,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="404">
           <caret line="156" column="5" lean-forward="true" selection-start-line="156" selection-start-column="5" selection-end-line="156" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -274,15 +285,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="567">
           <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python/7. 浮点运算︰ 问题和限制/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="687">
-          <caret line="53" column="28" lean-forward="true" selection-start-line="53" selection-start-column="28" selection-end-line="53" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -290,7 +292,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="997">
           <caret line="91" column="19" lean-forward="false" selection-start-line="91" selection-start-column="19" selection-end-line="91" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -298,6 +299,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3267">
           <caret line="121" column="49" lean-forward="true" selection-start-line="121" selection-start-column="49" selection-end-line="121" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/8. 面试/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="457">
+          <caret line="453" column="32" lean-forward="false" selection-start-line="453" selection-start-column="32" selection-end-line="453" selection-end-column="32" />
           <folding />
         </state>
       </provider>
@@ -305,15 +313,15 @@
     <entry file="file://$USER_HOME$/Desktop/Readme.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
-          <caret line="647" column="0" lean-forward="true" selection-start-line="647" selection-start-column="0" selection-end-line="670" selection-end-column="3" />
+          <caret line="647" column="0" lean-forward="false" selection-start-line="647" selection-start-column="0" selection-end-line="670" selection-end-column="3" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python/8. 面试/README.md">
+    <entry file="file://$PROJECT_DIR$/Python/7. 浮点运算︰ 问题和限制/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="727">
-          <caret line="517" column="12" lean-forward="true" selection-start-line="517" selection-start-column="12" selection-end-line="517" selection-end-column="12" />
+        <state relative-caret-position="216">
+          <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
           <folding />
         </state>
       </provider>
