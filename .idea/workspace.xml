@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e185569-1b77-401f-8f58-9ecf845b7b1d" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/Python/7. 浮点运算︰ 问题和限制/README.md" afterPath="$PROJECT_DIR$/Python/7. 浮点运算︰ 问题和限制/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Operating System/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Operating System/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,10 +16,20 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Python/7. 浮点运算︰ 问题和限制/README.md">
+        <entry file="file://$PROJECT_DIR$/Operating System/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+            <state relative-caret-position="228">
+              <caret line="932" column="26" lean-forward="false" selection-start-line="932" selection-start-column="26" selection-end-line="932" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="计算机操作系统.md" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/CS-Notes/notes/计算机操作系统.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="102" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="952" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -50,6 +62,7 @@
         <option value="$PROJECT_DIR$/Python/浮点运算︰ 问题和限制/README.md" />
         <option value="$PROJECT_DIR$/Python/8. 面试/README.md" />
         <option value="$PROJECT_DIR$/Python/7. 浮点运算︰ 问题和限制/README.md" />
+        <option value="$PROJECT_DIR$/Operating System/README.md" />
       </list>
     </option>
   </component>
@@ -85,35 +98,6 @@
               <item name="Computer-Science-Theories" type="b2602c69:ProjectViewProjectNode" />
               <item name="Computer-Science-Theories" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Computer-Science-Theories" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Computer-Science-Theories" type="462c0819:PsiDirectoryNode" />
-              <item name="Python" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Computer-Science-Theories" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Computer-Science-Theories" type="462c0819:PsiDirectoryNode" />
-              <item name="Python" type="462c0819:PsiDirectoryNode" />
-              <item name="5. 输入和输出" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Computer-Science-Theories" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Computer-Science-Theories" type="462c0819:PsiDirectoryNode" />
-              <item name="Python" type="462c0819:PsiDirectoryNode" />
-              <item name="6. 标准库概览" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Computer-Science-Theories" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Computer-Science-Theories" type="462c0819:PsiDirectoryNode" />
-              <item name="Python" type="462c0819:PsiDirectoryNode" />
-              <item name="7. 浮点运算︰ 问题和限制" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Computer-Science-Theories" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Computer-Science-Theories" type="462c0819:PsiDirectoryNode" />
-              <item name="Python" type="462c0819:PsiDirectoryNode" />
-              <item name="8. 面试" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -127,15 +111,16 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\vincent\Documents\GitHub\Computer-Science-Theories\Python\introduction" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\vincent\Documents\GitHub\Computer-Science-Theories\Operating System" />
       <recent name="C:\Users\vincent\Documents\GitHub\Computer-Science-Theories\Python\8. 面试" />
       <recent name="C:\Users\vincent\Documents\GitHub\Computer-Science-Theories\Python\浮点运算︰ 问题和限制" />
       <recent name="C:\Users\vincent\Documents\GitHub\Computer-Science-Theories\Python\6. 标准库概览" />
       <recent name="C:\Users\vincent\Documents\GitHub\Computer-Science-Theories\Python\5. 输入和输出" />
-      <recent name="C:\Users\vincent\Documents\GitHub\Computer-Science-Theories\Python\4. 模块" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\vincent\Documents\GitHub\Computer-Science-Theories" />
+      <recent name="C:\Users\vincent\Documents\GitHub\Computer-Science-Theories\Python\introduction" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -321,6 +306,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
           <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/CS-Notes/notes/计算机操作系统.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="102" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="952" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Operating System/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="932" column="26" lean-forward="false" selection-start-line="932" selection-start-column="26" selection-end-line="932" selection-end-column="26" />
           <folding />
         </state>
       </provider>
