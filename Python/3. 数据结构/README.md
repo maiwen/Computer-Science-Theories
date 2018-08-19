@@ -82,3 +82,90 @@ zip()函数返回一个由元组构成的迭代器，其中第i个元组包含�
 >>> list(zip(*matrix))
 [(1, 5, 9), (2, 6, 10), (3, 7, 11), (4, 8, 12)]
 ```
+
+## 2. del 语句
+有一个方法可以根据索引而不是值从列表中删除一个元素：del语句。这跟pop()方法不同，后者会返回一个值。
+
+## 3. 元组
+不能给元组中单独的一个元素赋值，不过可以创建包含可变对象（例如列表）的元组。
+
+虽然元组看起来类似于列表，它们经常用于不同的场景和不同的目的。元组是不可变的，通常包含各种各样的元素，这些元素通过分拆（参见本节的后面部分）或索引（或甚至是属性namedtuples）访问。
+列表是可变的，它们的元素通常是相同类型，并通过迭代列表来访问。
+
+空的元组通过一对空的圆括号构造；只有一个元素的元组通过一个元素跟随一个逗号构造（仅用圆括号把一个值括起来是不够的）。丑陋，但是有效。
+
+## 4. 集合（set）
+
+集合中的元素不会重复且没有顺序。集合的基本用途包括成员测试和消除重复条目。集合对象也支持数学运算，如并，交，差和对称差。
+
+花括号或者set()函数可以用来创建集合。注意，你必须使用set()创建一个空的集合，而不能用{}；后面这种写法创建一个空的字典
+
+## 5. 字典
+字典是依据键索引的，键可以是任意不可变的类型；字符串和数字始终能作为键。
+
+理解字典的最佳方式是把它看做无序的键:值对集合，要求是键必须是唯一的（在同一个字典内）。
+
+字典的主要操作是依据键来存取值。还可以通过del删除一个键:值对。
+
+## 6. 循环的技巧
+当循环遍历字典时，键和对应的值可以使用items()方法同时提取出来。
+``` python
+>>> knights = {'gallahad': 'the pure', 'robin': 'the brave'}
+>>> for k, v in knights.items():
+...     print(k, v)
+...
+gallahad the pure
+robin the brave
+
+# 当遍历一个序列时，使用enumerate()函数可以同时得到位置索引和对应的值。
+>>> for i, v in enumerate(['tic', 'tac', 'toe']):
+...     print(i, v)
+...
+0 tic
+1 tac
+2 toe
+
+# 同时遍历两个或更多的序列，使用zip()函数可以成对读取元素。
+>>> questions = ['name', 'quest', 'favorite color']
+>>> answers = ['lancelot', 'the holy grail', 'blue']
+>>> for q, a in zip(questions, answers):
+...     print('What is your {0}?  It is {1}.'.format(q, a))
+...
+What is your name?  It is lancelot.
+What is your quest?  It is the holy grail.
+What is your favorite color?  It is blue.
+
+#要反向遍历一个序列，首先正向生成这个序列，然后调用reversed()函数。
+
+>>>
+>>> for i in reversed(range(1, 10, 2)):
+...     print(i)
+...
+9
+7
+5
+3
+1
+
+#要按顺序循环一个序列，请使用sorted()函数，返回一个新的排序的列表，同时保留源不变。
+
+>>>
+>>> basket = ['apple', 'orange', 'apple', 'pear', 'orange', 'banana']
+>>> for f in sorted(set(basket)):
+...     print(f)
+...
+apple
+banana
+orange
+pear
+
+#如果在遍历列表的时候同时想改变它，创建一个新的列表会更简单更安全。
+```
+
+## 7. 深入条件控制
+比较操作符in和not in检查一个值是否在一个序列中出现（不出现）。is和is not比较两个对象是否为相同的对象；
+这只对列表这样的可变对象比较重要。所有比较运算符都具有相同的优先级，低于所有数值运算符。
+
+可以级联比较。例如，a < b == c测试a是否小于b并且b是否等于c。
+
+布尔运算符and 和 or 是所谓的 短路 运算符：依参数从左向右求值，结果一旦确定就停止。
