@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e185569-1b77-401f-8f58-9ecf845b7b1d" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Operating System/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Operating System/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Java/Java 基础.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Java/Java 虚拟机.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Java/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Network/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Network/__init__.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,28 +17,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Operating System/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="932" column="26" lean-forward="false" selection-start-line="932" selection-start-column="26" selection-end-line="932" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="计算机操作系统.md" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/CS-Notes/notes/计算机操作系统.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="102" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="952" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -63,6 +45,7 @@
         <option value="$PROJECT_DIR$/Python/8. 面试/README.md" />
         <option value="$PROJECT_DIR$/Python/7. 浮点运算︰ 问题和限制/README.md" />
         <option value="$PROJECT_DIR$/Operating System/README.md" />
+        <option value="$PROJECT_DIR$/Network/README.md" />
       </list>
     </option>
   </component>
@@ -112,11 +95,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\vincent\Documents\GitHub\Computer-Science-Theories\Java" />
+      <recent name="C:\Users\vincent\Documents\GitHub\Computer-Science-Theories\Network" />
       <recent name="C:\Users\vincent\Documents\GitHub\Computer-Science-Theories\Operating System" />
       <recent name="C:\Users\vincent\Documents\GitHub\Computer-Science-Theories\Python\8. 面试" />
       <recent name="C:\Users\vincent\Documents\GitHub\Computer-Science-Theories\Python\浮点运算︰ 问题和限制" />
-      <recent name="C:\Users\vincent\Documents\GitHub\Computer-Science-Theories\Python\6. 标准库概览" />
-      <recent name="C:\Users\vincent\Documents\GitHub\Computer-Science-Theories\Python\5. 输入和输出" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\vincent\Documents\GitHub\Computer-Science-Theories" />
@@ -178,9 +161,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1096" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -318,10 +300,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/CS-Notes/notes/计算机网络.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Network/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="768">
+          <caret line="902" column="0" lean-forward="true" selection-start-line="902" selection-start-column="0" selection-end-line="902" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Operating System/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
           <caret line="932" column="26" lean-forward="false" selection-start-line="932" selection-start-column="26" selection-end-line="932" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java/Java 虚拟机.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
           <folding />
         </state>
       </provider>
