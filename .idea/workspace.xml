@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e185569-1b77-401f-8f58-9ecf845b7b1d" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Linux/Linux.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Linux/__init__.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/Python/8. 面试/README.md" afterPath="$PROJECT_DIR$/Python/8. 面试/README.md" />
     </list>
@@ -56,21 +54,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Python/8. 面试/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="34" column="24" lean-forward="false" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
+            <state relative-caret-position="724">
+              <caret line="545" column="59" lean-forward="true" selection-start-line="545" selection-start-column="59" selection-end-line="545" selection-end-column="59" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Linux.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Linux.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Linux/Linux.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="189">
-              <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+              <caret line="7" column="21" lean-forward="false" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -84,6 +82,11 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>迭代器</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -106,8 +109,8 @@
         <option value="$PROJECT_DIR$/Network/README.md" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/Java/Java 基础.md" />
-        <option value="$PROJECT_DIR$/Python/8. 面试/README.md" />
         <option value="$PROJECT_DIR$/Linux/Linux.md" />
+        <option value="$PROJECT_DIR$/Python/8. 面试/README.md" />
       </list>
     </option>
   </component>
@@ -135,7 +138,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -148,10 +150,22 @@
               <item name="Computer-Science-Theories" type="462c0819:PsiDirectoryNode" />
               <item name="Linux" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Computer-Science-Theories" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Computer-Science-Theories" type="462c0819:PsiDirectoryNode" />
+              <item name="Python" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Computer-Science-Theories" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Computer-Science-Theories" type="462c0819:PsiDirectoryNode" />
+              <item name="Python" type="462c0819:PsiDirectoryNode" />
+              <item name="8. 面试" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -257,6 +271,102 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Python/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="12" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/4. 模块/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2835">
+          <caret line="105" column="15" lean-forward="false" selection-start-line="105" selection-start-column="15" selection-end-line="105" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/5. 输入和输出/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2457">
+          <caret line="91" column="19" lean-forward="false" selection-start-line="91" selection-start-column="19" selection-end-line="91" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/6. 标准库概览/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3267">
+          <caret line="121" column="49" lean-forward="false" selection-start-line="121" selection-start-column="49" selection-end-line="121" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/8. 面试/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="34" column="24" lean-forward="false" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Linux/Linux.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="21" lean-forward="false" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="12" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/4. 模块/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2835">
+          <caret line="105" column="15" lean-forward="false" selection-start-line="105" selection-start-column="15" selection-end-line="105" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/5. 输入和输出/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2457">
+          <caret line="91" column="19" lean-forward="false" selection-start-line="91" selection-start-column="19" selection-end-line="91" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/6. 标准库概览/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3267">
+          <caret line="121" column="49" lean-forward="false" selection-start-line="121" selection-start-column="49" selection-end-line="121" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/8. 面试/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="34" column="24" lean-forward="false" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Linux/Linux.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Python/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -444,18 +554,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python/8. 面试/README.md">
+    <entry file="file://$PROJECT_DIR$/Linux/Linux.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="34" column="24" lean-forward="false" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
+        <state relative-caret-position="189">
+          <caret line="7" column="21" lean-forward="false" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Linux/Linux.md">
+    <entry file="file://$PROJECT_DIR$/Python/8. 面试/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+        <state relative-caret-position="724">
+          <caret line="545" column="59" lean-forward="true" selection-start-line="545" selection-start-column="59" selection-end-line="545" selection-end-column="59" />
           <folding />
         </state>
       </provider>
